@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER":"wan",
+        "MONGO_PASSWORD":"8pNt7lq48DEbrhxE",
+        "MONGO_DB":"events-react-dev"
+    }
+}
+
